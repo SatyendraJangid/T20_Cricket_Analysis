@@ -1,5 +1,5 @@
 <h1 align="center">
-           T20 2022 World Cup Analysis 💬 📝 ✍️
+           T20 World Cup Analysis 💬 📝 ✍️
 </h1>
 
 
